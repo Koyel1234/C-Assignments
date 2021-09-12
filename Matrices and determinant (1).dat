@@ -1,0 +1,17 @@
+
+As number of column of matrix A is equal to number of rows of matrix B matrices are multiplicable.
+The matrix A is:
+ 	5.2 	2.5 	3.9 	4.1
+ 	3.2 	4.6 	3.3 	3.4
+ 	1.6 	2.5 	4.8 	5.1
+
+The matrix B is:
+ 	2.2 	1.6 	5.1
+ 	3.4 	2.6 	3.6
+ 	4.5 	4.3 	5.0
+ 	3.4 	4.6 	1.3
+
+The product matrix is:
+ 	51.430000 	50.449997 	60.349995
+ 	49.090000 	46.910000 	53.799995
+ 	50.960003 	53.160000 	47.790001
